@@ -8,7 +8,8 @@ Basic GitHub repository created during the initial Odin Project exercises.
 <li>Setup and introduction to Visual Studio Code IDE</li>
 <li>Basic Linux/Unix command line usage</li>
 <li>Setting up an SSH connection to GitHub through CLI</li>
-    <ul>Git Basics:
+<li>Git Basics:
+    <ul>
         <li>Creating a repository on GitHub</li>
         <li>Cloning the repository to my local machine</li>
         <li>Staging and committing files using CLI</li>
